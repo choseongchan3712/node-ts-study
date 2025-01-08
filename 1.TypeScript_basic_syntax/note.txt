@@ -1,0 +1,9 @@
+1. 터미널에서 TypeScript 파일을 실행하려면 TypeScript 파일을 JavaScript로 컴파일 후 실행해야함.
+
+* TypeScript 파일을 JavaScript로 변환하는 명령어(예시):
+tsc part_3_function_and_type.ts
+
+* 이렇게 하면 "같은 폴더"에 part_3_function_and_type.js 파일이 생성됨.
+
+* 생성된 JavaScript 파일을 node 명령어로 실행:
+node part_3_function_and_type.js
