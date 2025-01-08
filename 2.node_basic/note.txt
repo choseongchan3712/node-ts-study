@@ -1,0 +1,5 @@
+Node.js 는 JavaScript를 서버에서 실행할 수 있는 런타임 환경임.
+
+Node.js는 코드를 모듈화하기 위해 CommonJS와 ES Module 방식을 제공함.
+
+CommonJS 방식은 require를 사용하고, ES Module 방식은 import/export를 사용.
